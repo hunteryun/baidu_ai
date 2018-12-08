@@ -1,0 +1,5 @@
+name: Baidu AI
+type: module
+description: Baidu AI module for HunterPHP.
+core: 1.x
+package: Hunter

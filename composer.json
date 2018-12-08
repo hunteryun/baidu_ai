@@ -1,0 +1,5 @@
+{
+    "require": {
+        "hunteryun/baidu-aip": "dev-master"
+    }
+}
